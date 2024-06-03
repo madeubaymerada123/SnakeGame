@@ -1,10 +1,15 @@
-# Day #17
-
 ### Snake Game
-In this tutorial ([Open in Youtube](https://youtu.be/wM7eMJ26kc8)),  I am gonna showing to you how to code a snake game with javascript. this snake game is fully responsive and in touch devices it's have keys that user can use❗️
+
+This project is a simple implementation of the classic Snake game. The game is developed using HTML, CSS, and JavaScript. The objective of the game is to control the snake to eat food, which causes the snake to grow. The game ends when the snake runs into the screen border or itself.
+
+Features
+- Basic snake movement controlled by arrow keys.
+- Food appears at random locations on the screen.
+- Score tracking based on the number of food items eaten.
+- Game over detection when the snake collides with itself or the screen borders.
 
 # Screenshot
-Here we have project screenshot :
+screenshot :
 
 
-![screenshot](screenshot.jpg)
+![screenshot](ss snake game.jpg)
