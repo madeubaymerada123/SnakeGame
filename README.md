@@ -8,8 +8,3 @@ Features
 - Score tracking based on the number of food items eaten.
 - Game over detection when the snake collides with itself or the screen borders.
 
-# Screenshot
-screenshot :
-
-
-![screenshot](ss_snake_game.jpg)
