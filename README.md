@@ -12,4 +12,4 @@ Features
 screenshot :
 
 
-![screenshot](ss snake game.jpg)
+![screenshot](ss_snake_game.jpg)
